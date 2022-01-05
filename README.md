@@ -1,10 +1,11 @@
 - 👋 Hi, I’m @davidsrrose
 - 👀 I’m interested in learning data visualization, stochastic simulation, finance, and skiing...
 - 🌱 I’m currently learning...
-    August 2021-Jan 2021: Econ 101, Intro to R, Instro to Cyprotcurrency & Blockchain
-    Jan 2022 - May 2022: Computational Finance, R data Visualization, & 
+    August 2021-Jan 2021: Econ 101, Intro to R, Intro to Cyprotcurrency & Blockchain
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... david.sr.rose@protonmail.com
+     Sports betting related simulations
+- 📫 How to reach me ... 
+    david.sr.rose@protonmail.com
 
 <!---
 davidsrrose/davidsrrose is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
