@@ -1,11 +1,10 @@
 - 👋 Hi, I’m @davidsrrose
 - 🌱 I’m currently learning...
--          data visualization,
-         stochastic simulation,
-         
-- 💞️ I’m looking to collaborate on ...
-     sports betting models,
-     board game strategy models
+-          
+- R programming,
+- data visualization,
+- stochastic simulation,
+
 - 📫 How to reach me ... 
     david.sr.rose@gmail.com
 
