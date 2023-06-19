@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @davidsrrose
 - 🌱 I’m currently learning...
-- R programming,
-- data visualization,
-- stochastic simulation,
+- Python
 
 - 📫 How to reach me ... 
     david.sr.rose@gmail.com
