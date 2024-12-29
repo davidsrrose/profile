@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @davidsrrose
+- 👋 Hi, I’m David Rose
 
 - 📫 How to reach me ... 
     david.sr.rose@gmail.com
