@@ -125,7 +125,7 @@ class Deck:
             md_file.write("1. Divide the deck into two equal halves\n")
             md_file.write("2. Combine the decks, allowing the cards to interlace one at a time\n")
             md_file.write("3. Square up the deck and repeat\n\n")
-            md_file.write("# Lets get shuffling and find out! \n\n")
+            md_file.write("# Let's get shuffling and find out! \n\n")
 
             # Display the sorted deck before shuffling
             md_file.write("## Before Shuffling\n")
