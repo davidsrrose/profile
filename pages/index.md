@@ -5,7 +5,7 @@ hide_title: true
 
 <div style="display: flex; align-items: center; gap: 1.5rem; margin-bottom: 2rem;">
   <img 
-    src="https://raw.githubusercontent.com/davidsrrose/portfolio/refs/heads/dev/media/david_rose_headshot.jpg" 
+    src="https://raw.githubusercontent.com/davidsrrose/davidsrrose/refs/heads/dev/media/david_rose_headshot.jpg" 
     alt="David" 
     style="width: 200px; height: 200px; border-radius: 50%;"
   >
