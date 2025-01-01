@@ -1,6 +1,6 @@
 👋 Hi, I’m David Rose
 
-[📚](https://davidsrrose.github.io/aboutme) - See my WIP portfolio site
+📚 [See my WIP portfolio site](https://davidsrrose.github.io/davidsrrose)
 
 📫 How to reach me ... 
     david.sr.rose@gmail.com
