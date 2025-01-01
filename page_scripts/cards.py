@@ -157,5 +157,3 @@ generate_deck_and_markdown(
     output_file="pages/examining_the_perfect_shuffle.md", 
     github_raw_base="https://raw.githubusercontent.com/davidsrrose/davidsrrose/refs/heads/dev/media/card_images/"
 )
-
-

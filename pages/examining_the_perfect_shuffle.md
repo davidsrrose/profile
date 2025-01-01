@@ -14,7 +14,7 @@ To perform a classic riffle shuffle:
 2. Combine the decks, allowing the cards to interlace one at a time
 3. Square up the deck and repeat
 
-# Lets get shuffling and find out! 
+# Let's get shuffling and find out! 
 
 ## Before Shuffling
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; width: 100%;">
