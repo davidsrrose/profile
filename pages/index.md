@@ -35,8 +35,9 @@ hide_title: true
 # About Me
 
 
+
 Specialized in data-driven problem solving and analysis of complex systems.
 
 Learning python, sql, and data engineering.
 
-Background in quantitative analysis and lean manufacturing process improvement.
+Background in quantitative modeling and lean manufacturing process improvement.
