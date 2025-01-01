@@ -497,6 +497,8 @@ To perform a classic riffle shuffle:
 </div>
 
 ## After Shuffle 8
+We're back!
+
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; width: 100%;">
   <img src="https://raw.githubusercontent.com/davidsrrose/davidsrrose/refs/heads/dev/media/card_images/Diamonds%20|%20A.jpg" alt="Diamonds | A.jpg" width="6.9%" style="margin: 1px; border: 1px solid #ddd; border-radius: 5px;">
   <img src="https://raw.githubusercontent.com/davidsrrose/davidsrrose/refs/heads/dev/media/card_images/Diamonds%20|%202.jpg" alt="Diamonds | 2.jpg" width="6.9%" style="margin: 1px; border: 1px solid #ddd; border-radius: 5px;">

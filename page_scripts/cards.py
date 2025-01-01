@@ -135,6 +135,8 @@ class Deck:
             for shuffle_round in range(1, 9):
                 self.shuffle(1)  # Shuffle once per round
                 md_file.write(f"## After Shuffle {shuffle_round}\n")
+                if shuffle_round == 8:
+                    md_file.write("We're back!\n\n")
                 self._write_card_images(md_file, github_raw_base)
 
 
