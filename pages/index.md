@@ -36,7 +36,7 @@ hide_title: true
   </div>
 </div>
 
-Interested python, sql, and data engineering.
+Interested in python, sql, and data engineering.
 
 Background in quantitative modeling and lean manufacturing process improvement.
 
