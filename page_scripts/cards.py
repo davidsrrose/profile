@@ -118,7 +118,7 @@ class Deck:
             md_file.write("If you shuffle a deck of cards *perfectly*...\n\n")
             md_file.write("Will the deck return to the start order?\n\n")
             md_file.write("How many shuffles would that take?\n\n")
-            md_file.write("\n\n Let's find out.\n\n")
+            md_file.write("*Let's find out*\n\n")
             md_file.write("## Defining a Perfect Shuffle\n\n")
             md_file.write("We will define a 'perfect' shuffle as a *Riffle Shuffle.*\n\n")
             md_file.write("To perform a classic riffle shuffle:\n\n")

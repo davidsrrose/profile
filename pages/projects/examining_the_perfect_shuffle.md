@@ -6,9 +6,7 @@ Will the deck return to the start order?
 
 How many shuffles would that take?
 
-
-
- Let's find out.
+*Let's find out*
 
 ## Defining a Perfect Shuffle
 
