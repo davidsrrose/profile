@@ -6,19 +6,23 @@ Will the deck return to the start order?
 
 How many shuffles would that take?
 
-*Let's find out*
+<Details title="Defining a 'perfect' shuffle">
 
-## Defining a Perfect Shuffle
+                            We will define a 'perfect' shuffle as a Riffle Shuffle: 
+                          
+                            Riffle Shuffle Procedure:
 
-We will define a 'perfect' shuffle as a *Riffle Shuffle.*
+                            1. Divide the deck into two equal halves
+                            2. Combine the decks, allowing the cards to interlace one at a time
+                            3. Square up the deck and repeat
+                             
 
-To perform a classic riffle shuffle:
+                            *Nerd out on shuffling:*
+                            https://en.wikipedia.org/wiki/Shuffling#Riffle
 
-1. Divide the deck into two equal halves
-2. Combine the decks, allowing the cards to interlace one at a time
-3. Square up the deck and repeat
+                            </Details>
 
-# Let's get shuffling and find out! 
+# Let's shuffle and find out!
 
 ## Before Shuffling
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; width: 100%;">
@@ -80,6 +84,8 @@ To perform a classic riffle shuffle:
 <br>
 </div>
 
+#  
+
 ## After Shuffle 1
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; width: 100%;">
   <img src="https://raw.githubusercontent.com/davidsrrose/davidsrrose/refs/heads/dev/media/card_images/Diamonds%20|%20A.jpg" alt="Diamonds | A.jpg" width="6.9%" style="margin: 1px; border: 1px solid #ddd; border-radius: 5px;">
@@ -139,6 +145,8 @@ To perform a classic riffle shuffle:
   <img src="https://raw.githubusercontent.com/davidsrrose/davidsrrose/refs/heads/dev/media/card_images/Spades%20|%20K.jpg" alt="Spades | K.jpg" width="6.9%" style="margin: 1px; border: 1px solid #ddd; border-radius: 5px;">
 <br>
 </div>
+
+#  
 
 ## After Shuffle 2
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; width: 100%;">
@@ -200,6 +208,8 @@ To perform a classic riffle shuffle:
 <br>
 </div>
 
+#  
+
 ## After Shuffle 3
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; width: 100%;">
   <img src="https://raw.githubusercontent.com/davidsrrose/davidsrrose/refs/heads/dev/media/card_images/Diamonds%20|%20A.jpg" alt="Diamonds | A.jpg" width="6.9%" style="margin: 1px; border: 1px solid #ddd; border-radius: 5px;">
@@ -259,6 +269,8 @@ To perform a classic riffle shuffle:
   <img src="https://raw.githubusercontent.com/davidsrrose/davidsrrose/refs/heads/dev/media/card_images/Spades%20|%20K.jpg" alt="Spades | K.jpg" width="6.9%" style="margin: 1px; border: 1px solid #ddd; border-radius: 5px;">
 <br>
 </div>
+
+#  
 
 ## After Shuffle 4
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; width: 100%;">
@@ -320,6 +332,8 @@ To perform a classic riffle shuffle:
 <br>
 </div>
 
+#  
+
 ## After Shuffle 5
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; width: 100%;">
   <img src="https://raw.githubusercontent.com/davidsrrose/davidsrrose/refs/heads/dev/media/card_images/Diamonds%20|%20A.jpg" alt="Diamonds | A.jpg" width="6.9%" style="margin: 1px; border: 1px solid #ddd; border-radius: 5px;">
@@ -379,6 +393,8 @@ To perform a classic riffle shuffle:
   <img src="https://raw.githubusercontent.com/davidsrrose/davidsrrose/refs/heads/dev/media/card_images/Spades%20|%20K.jpg" alt="Spades | K.jpg" width="6.9%" style="margin: 1px; border: 1px solid #ddd; border-radius: 5px;">
 <br>
 </div>
+
+#  
 
 ## After Shuffle 6
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; width: 100%;">
@@ -440,6 +456,8 @@ To perform a classic riffle shuffle:
 <br>
 </div>
 
+#  
+
 ## After Shuffle 7
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; width: 100%;">
   <img src="https://raw.githubusercontent.com/davidsrrose/davidsrrose/refs/heads/dev/media/card_images/Diamonds%20|%20A.jpg" alt="Diamonds | A.jpg" width="6.9%" style="margin: 1px; border: 1px solid #ddd; border-radius: 5px;">
@@ -500,9 +518,9 @@ To perform a classic riffle shuffle:
 <br>
 </div>
 
-## After Shuffle 8
-We're back!
+#  
 
+## After Shuffle 8 - we're back!
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; width: 100%;">
   <img src="https://raw.githubusercontent.com/davidsrrose/davidsrrose/refs/heads/dev/media/card_images/Diamonds%20|%20A.jpg" alt="Diamonds | A.jpg" width="6.9%" style="margin: 1px; border: 1px solid #ddd; border-radius: 5px;">
   <img src="https://raw.githubusercontent.com/davidsrrose/davidsrrose/refs/heads/dev/media/card_images/Diamonds%20|%202.jpg" alt="Diamonds | 2.jpg" width="6.9%" style="margin: 1px; border: 1px solid #ddd; border-radius: 5px;">

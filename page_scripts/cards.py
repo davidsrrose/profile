@@ -118,14 +118,25 @@ class Deck:
             md_file.write("If you shuffle a deck of cards *perfectly*...\n\n")
             md_file.write("Will the deck return to the start order?\n\n")
             md_file.write("How many shuffles would that take?\n\n")
-            md_file.write("*Let's find out*\n\n")
-            md_file.write("## Defining a Perfect Shuffle\n\n")
-            md_file.write("We will define a 'perfect' shuffle as a *Riffle Shuffle.*\n\n")
-            md_file.write("To perform a classic riffle shuffle:\n\n")
-            md_file.write("1. Divide the deck into two equal halves\n")
-            md_file.write("2. Combine the decks, allowing the cards to interlace one at a time\n")
-            md_file.write("3. Square up the deck and repeat\n\n")
-            md_file.write("# Let's get shuffling and find out! \n\n")
+            md_file.write("""<Details title="Defining a 'perfect' shuffle">
+
+                            We will define a 'perfect' shuffle as a Riffle Shuffle: 
+                          
+                            Riffle Shuffle Procedure:
+
+                            1. Divide the deck into two equal halves
+                            2. Combine the decks, allowing the cards to interlace one at a time
+                            3. Square up the deck and repeat
+                             
+
+                            *Nerd out on shuffling:*
+                            https://en.wikipedia.org/wiki/Shuffling#Riffle
+
+                            </Details>""")
+            
+            md_file.write("\n\n")
+
+            md_file.write("# Let's shuffle and find out!\n\n")
 
             # Display the sorted deck before shuffling
             md_file.write("## Before Shuffling\n")
@@ -134,9 +145,11 @@ class Deck:
             # Perform and display 8 rounds of shuffling
             for shuffle_round in range(1, 9):
                 self.shuffle(1)  # Shuffle once per round
-                md_file.write(f"## After Shuffle {shuffle_round}\n")
-                if shuffle_round == 8:
-                    md_file.write("We're back!\n\n")
+                md_file.write("#  \n\n")
+                if shuffle_round != 8:
+                    md_file.write(f"## After Shuffle {shuffle_round}\n")
+                else:
+                    md_file.write(f"## After Shuffle {shuffle_round} - we're back!\n")
                 self._write_card_images(md_file, github_raw_base)
 
 
