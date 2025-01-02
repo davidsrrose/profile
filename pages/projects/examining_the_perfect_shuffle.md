@@ -1,6 +1,12 @@
 # Examining the 'Perfect' Shuffle
 
- If you shuffle a deck of cards *perfectly*, will the deck return to the start order? How many shuffles would that take?
+If you shuffle a deck of cards *perfectly*...
+
+Will the deck return to the start order?
+
+How many shuffles would that take?
+
+
 
  Let's find out.
 

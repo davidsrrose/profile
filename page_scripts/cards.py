@@ -7,8 +7,6 @@ class Deck:
         self.folder_path = folder_path
         # Default suit and rank order if not provided
         self.suit_order = suit_order or ['diamonds', 'clubs', 'hearts', 'spades']
-        #self.rank_order = rank_order or ['2', '3', '4', '5', '6', '7', '8', '9', '10', 'J', 'Q', 'K', 'A']
-        #self.rank_order = rank_order or ['A', 'K', 'Q', 'J', '10', '9', '8', '7', '6', '5', '4', '3', '2']
         self.rank_order = rank_order or ['A','2', '3', '4', '5', '6', '7', '8', '9', '10', 'J', 'Q', 'K']
         self.cards = []
 
@@ -117,7 +115,9 @@ class Deck:
         """
         with open(output_file, "w") as md_file:
             md_file.write("# Examining the 'Perfect' Shuffle\n\n")
-            md_file.write(" If you shuffle a deck of cards *perfectly*, will the deck return to the start order? How many shuffles would that take?")
+            md_file.write("If you shuffle a deck of cards *perfectly*...\n\n")
+            md_file.write("Will the deck return to the start order?\n\n")
+            md_file.write("How many shuffles would that take?\n\n")
             md_file.write("\n\n Let's find out.\n\n")
             md_file.write("## Defining a Perfect Shuffle\n\n")
             md_file.write("We will define a 'perfect' shuffle as a *Riffle Shuffle.*\n\n")
@@ -154,6 +154,6 @@ def generate_deck_and_markdown(folder_path, output_file, github_raw_base):
 # Example usage
 generate_deck_and_markdown(
     folder_path="media/card_images", 
-    output_file="pages/examining_the_perfect_shuffle.md", 
+    output_file="pages/projects/examining_the_perfect_shuffle.md", 
     github_raw_base="https://raw.githubusercontent.com/davidsrrose/davidsrrose/refs/heads/dev/media/card_images/"
 )

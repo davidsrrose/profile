@@ -1,5 +1,5 @@
----
-title: David Rose
+a---
+title: About Me
 hide_title: true
 ---
 
@@ -41,5 +41,6 @@ Learning python, sql, and data engineering.
 Background in quantitative modeling and lean manufacturing process improvement.
 
 
-# About Me
+
+
 
