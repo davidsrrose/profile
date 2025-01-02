@@ -1,9 +1,10 @@
 ---
 title: Resume / Experience
+hide_title: true
 ---
 <br>
 
-## The Rider Firm  
+# The Rider Firm  
 *Oct 2024 - Present | Boulder, CO (Hybrid)*  
 
 ### Systems Analyst
@@ -16,7 +17,7 @@ title: Resume / Experience
 - Increased order-picking accuracy from ~98% to 99.76% by conducting root cause analysis and implementing error-proofing measures.  
 
 ---
-## Medtronic 
+# Medtronic 
 *Jan 2019 - Aug 2021 | Louisville, CO*  
 
 ### Manufacturing Engineer II
@@ -30,7 +31,7 @@ title: Resume / Experience
 - Reviewed and initiated manufacturing and development engineering change orders.  
 
 ---
-## Boston Scientific
+# Boston Scientific
 *Jul 2016 - Mar 2018 | Arden Hills, MN*  
 
 ### Industrial Engineer I
@@ -47,7 +48,7 @@ title: Resume / Experience
 - Coordinated 16 controlled environment line shutdowns without product impact.  
 
 ---
-## Innovent Air Handling Equipment  
+# Innovent Air Handling Equipment  
 *Jan 2014 - Aug 2014 | Minneapolis, MN*  
 
 ### Industrial Engineer Co-Op
