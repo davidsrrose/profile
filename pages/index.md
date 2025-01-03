@@ -56,6 +56,16 @@
           style="width: 30px; height: 30px;">
         GitHub
       </a>
+      <!-- Resume button -->
+      <a 
+        href="" 
+        target="_blank" 
+        style="background-color: #555; color: white; padding: 5px 10px; border-radius: 5px; text-decoration: none; font-size: 1.35rem; display: flex; align-items: center; gap: 10px; transition: background-color 0.3s, transform 0.3s;"
+        onmouseover="this.style.backgroundColor='#777'; this.style.transform='scale(1.05)';" 
+        onmouseout="this.style.backgroundColor='#555'; this.style.transform='scale(1)';">
+        📄 Resume
+      </a>
+
     </div>
   </div>
 </div>
