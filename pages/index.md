@@ -1,7 +1,7 @@
 <div style="display: flex; align-items: center; gap: 1.5rem; margin-bottom: 2rem;">
   <!-- Profile image with circular styling -->
   <img 
-    src="https://raw.githubusercontent.com/davidsrrose/davidsrrose/refs/heads/dev/media/david_rose_headshot.jpg" 
+    src="https://raw.githubusercontent.com/davidsrrose/davidsrrose/refs/heads/main/media/david_rose_headshot.jpg" 
     alt="David" 
     style="width: 170px; height: 170px; border-radius: 50%;"
   >
