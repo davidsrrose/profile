@@ -1,5 +1,5 @@
+- update github site link to "/profile"
 - Add resume button to download resume
 - Add location to landing/title page
-- Add advantage betting monte carlo
-- Add jupyter notebook for advantage betting explanation?
-- Add 
+- Add advantage betting monte carlo + link to old thing
+- Add can't stop simulation
