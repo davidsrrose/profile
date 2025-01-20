@@ -1,5 +1,7 @@
-# Everyone Makes a Wordle Bot
-
+---
+title: Everyone Makes a Wordle Bot
+hide_title: true
+---
 <style>
 /* Import Wordle font */
 @import url('https://fonts.googleapis.com/css2?family=Lucky+Guy&display=swap');
