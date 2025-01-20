@@ -195,10 +195,10 @@ body {
     <div class="wordle-tile green" style="animation-delay: 0.2s;">
       <div class="letter">B</div>
     </div>
-    <div class="wordle-tile yellow" style="animation-delay: 0.4s;">
+    <div class="wordle-tile green" style="animation-delay: 0.4s;">
       <div class="letter">O</div>
     </div>
-    <div class="wordle-tile gray" style="animation-delay: 0.6s;">
+    <div class="wordle-tile green" style="animation-delay: 0.6s;">
       <div class="letter">T</div>
     </div>
   </div>
