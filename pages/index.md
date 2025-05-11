@@ -18,9 +18,8 @@ hide_title: true
     
     <!-- Job title and company links -->
     <p style="margin: 0; font-size: 1rem;">
-      Systems Analyst @ 
-      <a href="https://www.theriderfirm.cc/" target="_blank" style="color: #007acc; text-decoration: none;">The Rider Firm</a> / 
-      <a href="https://us.huntbikewheels.com/" target="_blank" style="color: #007acc; text-decoration: none;">HUNT Bike Wheels</a>
+     Data Engineer @ 
+      <a href="https://www.medicasoft.com/" target="_blank" style="color: #007acc; text-decoration: none;">MedicaSoft</a>
     </p>
     
     <!-- Button container -->
@@ -62,7 +61,7 @@ hide_title: true
 
 ---
 
-Interested in Python, SQL, and data engineering.  
+Interested in Python, SQL, and prob/stats.  
 
 Background in quantitative modeling and lean manufacturing process improvement.  
 
