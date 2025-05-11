@@ -61,8 +61,8 @@ hide_title: true
 
 ---
 
-Interested in Python, SQL, and prob/stats.  
+Interested in Python, SQL, and stochastic models.  
 
-Background in quantitative modeling and lean manufacturing process improvement.  
+Background in quantitative analysis and lean manufacturing process improvement.  
 
 Skier, cyclist, and outdoor enthusiast.
