@@ -4,8 +4,14 @@ hide_title: true
 ---
 <br>
 
+# MedicaSoft
+*Apr 2025 - Present | Arlington, BA (Remote)*  
+
+### Data Engineer
+
+---
 # The Rider Firm  
-*Oct 2024 - Present | Boulder, CO (Hybrid)*  
+*Jun 2022 - Mar 2025 | Boulder, CO (Hybrid)*  
 
 ### Systems Analyst
 - Developed, tested, and released a new product data management system enabling customer spare parts support and self-service.  
@@ -20,7 +26,7 @@ hide_title: true
 # Medtronic 
 *Jan 2019 - Aug 2021 | Louisville, CO*  
 
-### Manufacturing Engineer II
+### Manufacturing Process Engineer II
 
 - Supported production process documentation, testing, and triage for line-down scenarios.  
 - Trained teams on assembly and calibration documentation for system production.  
