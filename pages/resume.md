@@ -5,7 +5,7 @@ hide_title: true
 <br>
 
 # MedicaSoft
-*Apr 2025 - Present | Arlington, BA (Remote)*  
+*Apr 2025 - Present | Arlington, VA (Remote)*  
 
 ### Data Engineer
 
